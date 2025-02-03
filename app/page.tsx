@@ -133,7 +133,7 @@ export default function Home() {
               <Car className="h-8 w-8" />
               <h1 className="text-2xl font-bold">Carnum.kr</h1>
             </div>
-            <p className="text-sm">모두의 운전 매너</p>
+            <p className="text-sm">번호판 리뷰하기</p>
           </div>
         </div>
       </header>
